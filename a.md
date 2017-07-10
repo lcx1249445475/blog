@@ -1,5 +1,0 @@
-hello world
-
-jirengu
-
-byebye
